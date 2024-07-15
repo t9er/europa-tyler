@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: interiorize
+Version: 0.1.0
+Summary: dynamical tides of planetary bodies
+Home-page: https://github.com/bidini/interiorize
+Author: Benjamin Idini
+Author-email: benjamin.idini@gmail.com
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: scipy
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pygyre
+Requires-Dist: sympy
+Requires-Dist: pytest
